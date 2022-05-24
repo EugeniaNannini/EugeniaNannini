@@ -4,6 +4,8 @@ I have recently graduated from a coding bootcamp at Henry, so now I'm a Full Sta
 I am looking for new challenges, expanding my programming skills, targeting web development.
 My goal is to use everything I have learned to solve problems wherever I might be, and keep on learning new things.
 
+
+
 📫 How to reach me **nannini.eug@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
