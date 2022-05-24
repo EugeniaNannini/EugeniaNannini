@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Eugenia Nannini</h1>
+<h1 align="center">Hi! 👋 I'm Eugenia Nannini</h1>
 <h3 align="center">A full stack developer from Argentina</h3>
+I have recently graduated from a coding bootcamp at Henry, so now I'm a Full Stack Developer. 
+I am looking for new challenges, expanding my programming skills, targeting web development.
+My goal is to use everything I have learned to solve problems wherever I might be, and keep on learning new things.
 
-- 📫 How to reach me **nannini.eug@gmail.com**
+📫 How to reach me **nannini.eug@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
